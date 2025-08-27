@@ -23,8 +23,8 @@ print(" ", sorted_word)
 
 **Example Run:**  
 ```
-Input: programmer
-Output:  aegmmoprrr
+Input: thequickbrownfoxjumpsoverthelazydog
+Output:  abcdeeefghhijklmnoooopqrrsttuuvwxyz
 ```
 
 ---
