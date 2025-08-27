@@ -2,6 +2,8 @@
 
 # Programming Assignment (PA#1)
 
+The purpose of this assignment is to practice basic Python concepts such as string manipulation, dictionaries, list unpacking, and user input. This README serves as a guide to explain what each program does, the logic behind the solutions, and how to run them.  
+
 This repository contains my submission for **Programming Assignment #1** in  
 **ECE 2112: Advanced Computer Programming and Algorithms**.  
 
