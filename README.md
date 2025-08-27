@@ -27,7 +27,6 @@ Input: thequickbrownfoxjumpsoverthelazydog
 Output:  abcdeeefghhijklmnoooopqrrsttuuvwxyz
 ```
 
----
 
 ## 2. Emoticon Problem  
 **Goal:** Replace specific words in a sentence with their corresponding emoticons.  
@@ -56,7 +55,6 @@ Input: Last night I was feeling mad, but this morning I got really sad.
 Output: Last night I was feeling >:(, but this morning I got really :((
 ```
 
----
 
 ## 3. Unpacking List Problem  
 **Goal:** Take a list of numbers and unpack them into three variables: `first`, `middle`, and `last`.  
