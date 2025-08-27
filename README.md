@@ -91,6 +91,7 @@ Output:
 first: 9
 middle: [7, 4, 5, 8, 1, 2]
 last: 5
+```
 
 ## How to Run the Programs  
 1. Clone this repository or download the Python file.  
