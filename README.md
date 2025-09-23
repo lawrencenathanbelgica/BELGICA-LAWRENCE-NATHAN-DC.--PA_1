@@ -7,6 +7,15 @@ The purpose of this assignment is to practice basic Python concepts such as stri
 This repository contains my submission for **Programming Assignment #1** in  
 **ECE 2112: Advanced Computer Programming and Algorithms**.  
 
+
+
+### About the Files
+
+- **alphabet_soup.py** → Solves the Alphabet Soup Problem.
+- **emoticon.py** → Solves the Emoticon Problem.
+- **unpacking_list.py** → Solves the Unpacking List Problem.
+- **README.md** → Documentation explaining the logic, code, and usage.
+  
 ## 1. Alphabet Soup Problem  
 **Goal:** Arrange the letters of a given word in alphabetical order.  
 
@@ -23,6 +32,13 @@ sorted_word = ''.join(sorted(word))
 print(" ", sorted_word)
 ```
 
+Explanation of Code
+
+- input() → asks the user for a word.
+- sorted(word) → sorts the letters alphabetically.
+- "".join() → joins the letters back into one string.
+- print() → displays the result.
+  
 **Example Run:**  
 ```
 Input: thequickbrownfoxjumpsoverthelazydog
@@ -63,10 +79,11 @@ Output: Last night I was feeling >:(, but this morning I got really :((
 
 **Process:**  
 1. Ask the user to input numbers.  
-2. If the input contains spaces, split it normally. If not, split each digit separately.  
-3. Convert the input into a list of integers.  
-4. Assign the first element to `first`, the last element to `last`, and everything in between to `middle`.  
-5. Print the results.  
+2. If the input contains spaces, split it normally.
+3. If not, split each digit separately.  
+4. Convert the input into a list of integers.  
+5. Assign the first element to `first`, the last element to `last`, and everything in between to `middle`.  
+6. Print the results.  
 
 **Code Snippet:**  
 ```python
@@ -98,5 +115,6 @@ last: 5
 2. Run it using:  
    ```bash
    python filename.py
-   ```  
+   ```
+   (Replace filename.py with the actual file name.)
 3. Follow the prompts to test each problem. 
